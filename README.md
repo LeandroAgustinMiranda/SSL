@@ -3,3 +3,4 @@ Curso K2052
 Año 2024  
 Apellido: Miranda Lampropulos  
 Nombre: Leandro Agustín
+Legajo: 1767483
